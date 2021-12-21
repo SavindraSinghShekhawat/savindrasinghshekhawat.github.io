@@ -13,6 +13,10 @@
 
 ## Introduction
 This repository is for my portfolio site that contains all my personal and career details. Which is currenly running on the domain [savindra.me](https://savindra.me/)
+This website is fully static and responsive.
+
+## Getting Started
+You can use this as a template while creating your own portfolio site but personal pics have all rights preserved.
 
 ## Technologies
 
