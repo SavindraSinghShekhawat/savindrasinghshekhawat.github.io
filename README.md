@@ -9,6 +9,7 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Licence](#licence)
+* [Acknowledgments](#acknowledgments)
 
 ## Introduction
 This repository is for my portfolio site that contains all my personal and career details. Which is currenly running on the domain [savindra.me](https://savindra.me/)
@@ -21,3 +22,8 @@ This repository is for my portfolio site that contains all my personal and caree
 
 ## Licence
 This project is licensed under the GNU General Public License - see the LICENSE file for details.
+
+## Acknowledgments
+- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+
+
